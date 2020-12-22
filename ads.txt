@@ -1,4 +1,3 @@
-  
 {
   "force_ad_on_try_to_connect": true,
   "ad_rewarded_id": "ca-app-pub-4144654560449420/3307454922",
