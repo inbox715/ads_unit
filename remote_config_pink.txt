@@ -1,7 +1,7 @@
 {
   "ad_connected": true,
   "main_server": "103.119.112.180",
-  "main_servers": "51.178.137.177|103.119.112.180|2.57.121.106",
+  "main_servers": "103.119.112.175|103.119.112.180|107.181.136.142",
   "shuffle_list": "SHUFFLE",
   "ad_interstitial_id":"ca-app-pub-1494048776015553/7954916992",
   "ad_rewarded_id":"ca-app-pub-1494048776015553/9382730495",
