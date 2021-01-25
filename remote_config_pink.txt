@@ -3,9 +3,9 @@
   "main_server": "103.119.112.180",
   "main_servers": "103.119.112.175|103.119.112.180|107.181.136.142",
   "shuffle_list": "SHUFFLE",
-  "ad_interstitial_id":"ca-app-pub-1494048776015553/7954916992",
-  "ad_rewarded_id":"ca-app-pub-1494048776015553/9382730495",
-  "ad_app_open_id":"ca-app-pub-1494048776015553/9989235152",
-  "ad_banner_id":"ca-app-pub-1494048776015553/5826628862",
-  "ad_banner_dialog_id":"ca-app-pub-1494048776015553/5826628862"
+  "ad_interstitial_id":"ca-app-pub-1057073718988133/9107192462",
+  "ad_rewarded_id":"ca-app-pub-1057073718988133/8145642190",
+  "ad_app_open_id":"ca-app-pub-1057073718988133/1963377228",
+  "ad_banner_id":"ca-app-pub-1057073718988133/2318600448",
+  "ad_banner_dialog_id":"ca-app-pub-1057073718988133/4178477025"
  }
