@@ -5,5 +5,5 @@
   "ad_interstitial_id": "ca-app-pub-4144654560449420/1562586818",
   "ad_app_open_id": "ca-app-pub-4144654560449420/7361708408",
   "ad_native_id": "ca-app-pub-4144654560449420/4927116757",
-  "server_geo_rule": "test"
+  "server_geo_rule": "test|ae"
 }
