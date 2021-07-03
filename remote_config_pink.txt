@@ -8,5 +8,6 @@
   "ad_app_open_id":"ca-app-pub-3228663599583295/6475182279",
   "ad_banner_id":"ca-app-pub-3228663599583295/3385984500",
   "ad_banner_dialog_id":"ca-app-pub-3228663599583295/3385984500",
-  "ad_native_id":"ca-app-pub-3228663599583295/6666753965"
+  "ad_native_id":"ca-app-pub-3228663599583295/6666753965",
+  "server_ips_site":"https://raw.githubusercontent.com/inbox715/vpn/main/blue/"
  }
