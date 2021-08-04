@@ -2,8 +2,8 @@
   "force_ad_on_try_to_connect": false,
   "ad_on_try_to_connect": false,
   "ad_rewarded_id": "ca-app-pub-3228663599583295/2986174031",
-  "ad_interstitial_id": "ca-app-pub-3228663599583295/7896075151",
-  "ad_app_open_id": "ca-app-pub-3228663599583295/5786569521",
-  "ad_native_id": "ca-app-pub-3228663599583295/3765258455",
+  "ad_interstitial_id": "ca-app-pub-3228663599583295/2558860631",
+  "ad_app_open_id": "ca-app-pub-3228663599583295/7419277408",
+  "ad_native_id": "ca-app-pub-3228663599583295/1809240961",
   "server_geo_rule": "ir|tm|ca"
 }
