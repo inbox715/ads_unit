@@ -1,5 +1,5 @@
 {
-  "server_geo_rule": "ir|ca",
+  "server_geo_rule": "ir|ca|ae",
   "ad_interstitial_id": "ca-app-pub-3228663599583295/3974288507",
   "ad_app_open_id": "ca-app-pub-3228663599583295/2469635147",
   "ad_native_id": "ca-app-pub-3228663599583295/7721961826"
