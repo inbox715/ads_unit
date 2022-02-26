@@ -3,8 +3,8 @@
   "ad_on_try_to_connect": true,
   "server_geo_rule": "test|ae",
   "server_ips_site":"https://raw.githubusercontent.com/inbox715/vpn/main/blue/",
-  "ad_interstitial_id":"ca-app-pub-3228663599583295/8261208796",
+  "ad_interstitial_id":"ca-app-pub-3228663599583295/1974510771",
   "ad_rewarded_id":"ca-app-pub-3228663599583295/1111111111",
-  "ad_app_open_id":"ca-app-pub-3228663599583295/4587695272",
-  "ad_native_id":"ca-app-pub-3228663599583295/9574290462"
+  "ad_app_open_id":"ca-app-pub-3228663599583295/7266327913",
+  "ad_native_id":"ca-app-pub-3228663599583295/1822429544"
 }
