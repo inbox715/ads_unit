@@ -1,7 +1,7 @@
 {
   "server_geo_rule": "ir|ca|ae|test",
-  "ad_interstitial_id": "ca-app-pub-3888218686072685/5628626814",
-  "ad_app_open_id": "ca-app-pub-3888218686072685/1146456323",
-  "ad_native_id": "ca-app-pub-3888218686072685/2455668563",
+  "ad_interstitial_id": "ca-app-pub-5881908719621107/3660076624",
+  "ad_app_open_id": "ca-app-pub-5881908719621107/8347682125",
+  "ad_native_id": "ca-app-pub-5881908719621107/4626222679",
   "servers_random_black_list":"🇳🇱 NetherlandsAE|🇬🇧 United KingdomAE"
 }
