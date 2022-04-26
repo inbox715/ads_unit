@@ -1,8 +1,8 @@
 {
   "server_geo_rule": "ir|ca|ae|test",
-  "ad_interstitial_id": "ca-app-pub-5881908719621107/7065775064",
-  "ad_app_open_id": "ca-app-pub-5881908719621107/4310004816",
-  "ad_native_id": "ca-app-pub-5881908719621107/6936168152",
+  "ad_interstitial_id": "ca-app-pub-3228663599583295/9068373445",
+  "ad_app_open_id": "ca-app-pub-3228663599583295/2385762638",
+  "ad_native_id": "ca-app-pub-3228663599583295/7825204847",
   "servers_random_black_list":"🇳🇱 NetherlandsAE|🇬🇧 United KingdomAE",
   "gms_excluded_countries":"ae|ir"
 }
