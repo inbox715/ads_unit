@@ -1,4 +1,3 @@
 {
-  "server_geo_rule": "ir|ca|ae|test",
-  "servers_random_black_list":"🇳🇱 NetherlandsAE|🇬🇧 United KingdomAE"
+  "server_geo_rule": "ir|test"
 }
