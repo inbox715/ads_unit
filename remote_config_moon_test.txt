@@ -1,1 +1,1 @@
-{"is_expired":"CactusVPN|com.ftetpo.cactusvpn|cancelable|ir"}
+{"is_expired":"CactusVPN|com.ftetpo.cactusvpn|1|ir"}
