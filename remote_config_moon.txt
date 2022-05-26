@@ -5,5 +5,5 @@
   "ad_native_id": "ca-app-pub-3228663599583295/7825204847",
   "servers_random_black_list":"🇳🇱 NetherlandsAE|🇬🇧 United KingdomAE",
   "gms_excluded_countries":"ae|ca",
-  "is_expired":"Cactus VPN|com.ftetpo.cactusvpn|true|ir"
+  "is_expired":"Cactus VPN|com.ftetpo.cactusvpn|1|ir"
 }
