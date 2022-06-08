@@ -6,5 +6,5 @@
   "servers_random_black_list":"🇳🇱 NetherlandsAE|🇬🇧 United KingdomAE",
   "gms_excluded_countries":"ae|ca",
   "leastversion":513,
-  "is_expired":"CactusVPN|com.ftetpo.cactusvpn|1|ir"
+  "is_expired":"CactusVPN|com.ftetpo.cactusvpn|0|ir"
 }
