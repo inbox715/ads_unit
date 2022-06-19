@@ -1,5 +1,4 @@
 {
   "server_geo_rule": "ir|test",
-  "rewarded_interstitial_ad_timeout":100000,
-  "is_ad_google":false
+  "rewarded_interstitial_ad_timeout":100000
 }
