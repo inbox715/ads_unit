@@ -2,5 +2,7 @@
   "server_geo_rule": "ir|test",
   "rewarded_interstitial_ad_timeout":100000,
   "is_ad_google":false,
-  "is_ad_appodael":true
+  "is_ad_appodael":false,
+  "is_ad_web":ture,
+  "gms_excluded_countries":"ir|ae"
 }
