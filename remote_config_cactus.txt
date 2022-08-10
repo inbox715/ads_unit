@@ -3,5 +3,6 @@
   "rewarded_interstitial_ad_timeout":100000,
   "is_ad_google":false,
   "is_ad_web":true,
-  "gms_excluded_countries":"ir|ae"
+  "gms_excluded_countries":"ir|ae",
+  "disallowed_apps":"com.ftetpo.cactusvpn|com.ftetpo.cactusvpn1"
 }
