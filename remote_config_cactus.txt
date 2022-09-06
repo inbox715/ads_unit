@@ -1,5 +1,5 @@
 {
   "server_geo_rule": "ir|test",
   "rewarded_interstitial_ad_timeout":100000,
-  "gms_excluded_countries":"ir|ae"
+  "gms_excluded_countries":"|ae"
 }
