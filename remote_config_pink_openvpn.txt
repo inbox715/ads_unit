@@ -1,7 +1,7 @@
 {
   "force_ad_on_try_to_connect": true,
   "ad_on_try_to_connect": true,
-  "server_geo_rule": "test|ae",
+  "server_geo_rule": "test|ae|ir",
   "server_ips_site":"https://raw.githubusercontent.com/inbox715/vpn/main/blue/",
   "ad_interstitial_id":"ca-app-pub-5881908719621107/7955829681",
   "ad_rewarded_id":"ca-app-pub-5881908719621107/1111111111",
