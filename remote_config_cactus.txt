@@ -1,5 +1,13 @@
 {
   "server_geo_rule": "ir|test",
   "rewarded_interstitial_ad_timeout":100000,
-  "gms_excluded_countries":"|ae"
+  "gms_excluded_countries":"|ae",
+  "ad_app_open_id":"ca-app-pub-3228663599583295/9895613535",
+  "ad_native_id":"ca-app-pub-3228663599583295/3911028807",
+  "ad_rewarded_interstitial_id":"ca-app-pub-3228663599583295/7590968106",
+  "ad_interstitial_id":"ca-app-pub-3228663599583295/9163355486",
+  "ad_interstitial_after_splash_id":"ca-app-pub-3228663599583295/9163355486",
+  "ad_interstitial_after_click_id":"ca-app-pub-3228663599583295/4226438162",
+  "ad_interstitial_after_connection_id":"ca-app-pub-3228663599583295/6369671187",
+  "ad_interstitial_after_disconnection_id":"ca-app-pub-3228663599583295/4834858542"
 }
