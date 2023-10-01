@@ -1,1 +1,4 @@
-{"blocked_countries":""}
+{"blocked_countries":"",
+"ad_interstitial_id": "ca-app-pub-3228663599583295/1280384580",
+  "ad_app_open_id": "ca-app-pub-3228663599583295/7379174488",
+  "ad_native_id": "ca-app-pub-3228663599583295/2809374086"}
